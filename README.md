@@ -51,7 +51,7 @@ Soy técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia
 
 ## 📫 Contacto
 
-- 📧 Correo: [javiermesoneromoro@example.com](mailto:javiermesoneromoro@example.com)  
+- 📧 Correo: [jmesoneromoro@gmail.com](mailto:jmesoneromoro@gmail.com)  
 - 🌐 Web: [javiermesoneromoro.netlify.app](https://javiermesoneromoro.netlify.app)
 - 💼 LinkedIn: [Javier Mesonero Moro](https://www.linkedin.com/in/javier-mesonero-moro-013ab6329)  
 
