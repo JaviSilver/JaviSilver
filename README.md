@@ -1,26 +1,40 @@
 # 👋 ¡Hola! Soy **Javier Mesonero Moro**
 
-Desarrollador de software con base en **Santa Marta de Tormes (Salamanca)**, apasionado por crear soluciones eficientes, seguras y escalables.
+Desarrollador multiplataforma y entusiasta de la ciberseguridad con base en **Santa Marta de Tormes (Salamanca)**, comprometido con crear soluciones eficientes, seguras y escalables.
 
 ---
 
 ## 💼 Sobre mí
 
-Bienvenido a mi perfil. Soy técnico en desarrollo de aplicaciones multiplataforma con experiencia en integración de sistemas, APIs y desarrollo backend.
+Soy técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia en integración de sistemas, APIs, middleware y desarrollo backend.
 
 - 🌍 Ubicación: Salamanca, España  
-- 🛠️ Tecnologías principales: **Java**, **Python**  
-- ☁️ Experiencia en despliegue en la nube (Netlify, servicios externos)  
-- 🧠 Interesado en **inteligencia artificial**, **ciberseguridad**, automatización y mejora continua
+- 🛠️ Tecnologías principales: **Java**, **Python**, **JavaScript**  
+- ☁️ Experiencia en despliegue en la nube, como Netlify
+- 🧠 Apasionado por la inteligencia artificial, ciberseguridad, automatización y mejora continua  
+- 🎯 En constante formación y crecimiento profesional para afrontar nuevos retos tecnológicos
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto            | Descripción                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| **Portfolio Web**   | Página personal con sección de proyectos, blog y modo oscuro — desplegada en Netlify |
-| **App de Gestión**  | Aplicación para la gestión de posturas de yoga, desarrollada como TFG de DAM |
+| Proyecto           | Descripción                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Portfolio Web**  | Página personal con sección de proyectos, blog y modo oscuro — desplegada en Netlify |
+| **AsanaYoga**      | Aplicación multiplataforma en Java + SQLite + Android Studio para gestión de clases de yoga |
+
+---
+
+## 🧩 Experiencia y Formación
+
+### 👨‍💻 Becario en VIEWNEXT (Oct – Dic 2024, 380 h)
+- Formación en MuleSoft e IBM Integration Bus  
+- Desarrollo y prueba de APIs REST y SOAP  
+- Mantenimiento de flujos de integración y testing con Postman  
+
+### 🎓 Formación
+- Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)  
+- Formación continua en ciberseguridad e inteligencia artificial  
 
 ---
 
@@ -28,19 +42,22 @@ Bienvenido a mi perfil. Soy técnico en desarrollo de aplicaciones multiplatafor
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
 ## 📫 Contacto
 
 - 📧 Correo: [javiermesoneromoro@example.com](mailto:javiermesoneromoro@example.com)  
-- 🌐 Web: [javiermesoneromoro.netlify.app](https://javiermesoneromoro.netlify.app)  
-- 💼 LinkedIn: [Javier Mesonero Moro](https://www.linkedin.com/in/javier-mesonero-moro-013ab6329)
+- 🌐 Web: [javiermesoneromoro.netlify.app](https://javiermesoneromoro.netlify.app)
+- 💼 LinkedIn: [Javier Mesonero Moro](https://www.linkedin.com/in/javier-mesonero-moro-013ab6329)  
 
 ---
 
-> “Transformo líneas de código en experiencias digitales intuitivas y bien construidas.”
+> “Transformo líneas de código en experiencias digitales intuitivas, seguras y bien construidas.”
 
 ---
 
