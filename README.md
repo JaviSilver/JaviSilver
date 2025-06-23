@@ -1,42 +1,49 @@
-# 👋 ¡Hola! Soy Juan Pérez
+# 👋 ¡Hola! Soy **Javier Mesonero Moro**
 
-Desarrollador Full Stack apasionado por la tecnología, el código limpio y la mejora continua.
-
-- 💻 Actualmente trabajo con **React**, **Node.js** y **MongoDB**
-- 📚 Aprendiendo sobre **DevOps** y **Machine Learning**
-- 🌱 Siempre buscando nuevos desafíos y formas de contribuir
-- 💬 Pregúntame sobre desarrollo web, JavaScript y productividad
-- 📫 Cómo contactarme: [tuemail@example.com](mailto:tuemail@example.com)
-
-## 🚀 Tecnologías y herramientas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=github_dark)
+Desarrollador de software con base en **Santa Marta de Tormes (Salamanca)**, apasionado por crear soluciones eficientes, seguras y escalables.
 
 ---
 
-> *“El código es poesía. La pasión lo convierte en arte.”*
+## 💼 Sobre mí
 
+Bienvenido a mi perfil. Soy técnico en desarrollo de aplicaciones multiplataforma con experiencia en integración de sistemas, APIs y desarrollo backend.
 
+- 🌍 Ubicación: Salamanca, España  
+- 🛠️ Tecnologías principales: **Java**, **Python**  
+- ☁️ Experiencia en despliegue en la nube (Netlify, servicios externos)  
+- 🧠 Interesado en **inteligencia artificial**, **ciberseguridad**, automatización y mejora continua
 
-<!--
-**JaviSilver/JaviSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Proyecto            | Descripción                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Portfolio Web**   | Página personal con sección de proyectos, blog y modo oscuro — desplegada en Netlify |
+| **App de Gestión**  | Aplicación para la gestión de posturas de yoga, desarrollada como TFG de DAM |
+
+---
+
+## 🔧 Stack Tecnológico
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📫 Contacto
+
+- 📧 Correo: [javiermesoneromoro@example.com](mailto:javiermesoneromoro@example.com)  
+- 🌐 Web: [javiermesoneromoro.netlify.app](https://javiermesoneromoro.netlify.app)  
+- 💼 LinkedIn: [Javier Mesonero Moro](https://www.linkedin.com/in/javier-mesonero-moro-013ab6329)
+
+---
+
+> “Transformo líneas de código en experiencias digitales intuitivas y bien construidas.”
+
+---
+
+## 📈 Mis estadísticas en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=javiermesoneromoro&show_icons=true&theme=github_dark)
