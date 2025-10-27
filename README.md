@@ -73,6 +73,4 @@ Actualmente curso **Administración de Sistemas Informáticos y Redes (ASIR)** y
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javiermesoneromoro&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiermesoneromoro&theme=github-dark-blue" alt="GitHub Streak">
 </p>
