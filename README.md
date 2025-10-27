@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Javier Mesonero Moro**
 
-Desarrollador multiplataforma y entusiasta de la ciberseguridad con base en **Santa Marta de Tormes (Salamanca)**, comprometido con crear soluciones eficientes, seguras y escalables.
+Desarrollador multiplataforma y futuro tecnico superior en ASIR con base en **Santa Marta de Tormes (Salamanca)**, comprometido con crear soluciones eficientes, seguras y escalables.
 
 ---
 
@@ -10,7 +10,7 @@ Soy técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia
 
 - 🌍 Ubicación: Salamanca, España  
 - 🛠️ Tecnologías principales: **Java**, **Python**, **JavaScript**  
-- ☁️ Experiencia en despliegue en la nube, como Netlify
+- ☁️ Experiencia en despliegue en la nube, como Vercel
 - 🧠 Apasionado por la inteligencia artificial, ciberseguridad, automatización y mejora continua  
 - 🎯 En constante formación y crecimiento profesional para afrontar nuevos retos tecnológicos
 
@@ -33,8 +33,9 @@ Soy técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia
 - Mantenimiento de flujos de integración y testing con Postman  
 
 ### 🎓 Formación
-- Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-- Formación continua en ciberseguridad e inteligencia artificial  
+- Actualmente estudio Administración de Sistemas Informaticos y Redes (2025 - ~ )
+- Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)  (2022-2024)
+- Formación continua en ciberseguridad e inteligencia artificial.
 
 ---
 
