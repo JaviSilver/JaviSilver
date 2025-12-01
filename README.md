@@ -66,11 +66,3 @@ Actualmente curso **Administración de Sistemas Informáticos y Redes (ASIR)** y
 ---
 
 > ✨ “Transformo líneas de código en experiencias digitales intuitivas, seguras y bien construidas.”
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javisilver&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub">
-</p>
